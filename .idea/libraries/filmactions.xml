@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="filmactions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ezzahi/filmactions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
